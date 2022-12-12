@@ -1,0 +1,28 @@
+[
+{
+      "id": "1235",
+      "name": "cake",
+      "price": 56,
+      "intensity": 7,
+      "image": "12",
+      "profile": {
+        "roasting": 4,
+        "acidity": 6,
+        "bitterness": 9,
+        "body": 2
+      }
+  },
+{
+      "id": "7786",
+      "name": "coffee",
+      "price": 20,
+      "intensity": 6,
+      "image": "14",
+      "profile": {
+        "roasting": 3,
+        "acidity": 2,
+        "bitterness":5,
+        "body":3
+      }
+  }
+  ]
